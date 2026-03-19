@@ -29,9 +29,14 @@ It wrote the code, ran away, and now the game is unplayable.
 - [ ] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
 
+The game was to guess the secret number by giving lower or higher hints. I found that the ranges were off, the hints were wrong and some variables weren't being reset. To address the bugs, I modified the ranges, fixed the conditional statements to give the hints and updated the state session variables.
+
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![alt text](image.png)
+
+
 
 ## 🚀 Stretch Features
 
